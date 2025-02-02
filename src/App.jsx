@@ -5,6 +5,7 @@ import Note from './components/Note'
 import CreateArea from './components/CreateArea'
 import { useState } from 'react'
 
+
 function App() {
 
   const [notes, setNotes] = useState([
